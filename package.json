@@ -1,0 +1,14 @@
+{
+  "name": "practice-vs",
+  "version": "1.0.0",
+  "description": "This is just practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frank leo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
